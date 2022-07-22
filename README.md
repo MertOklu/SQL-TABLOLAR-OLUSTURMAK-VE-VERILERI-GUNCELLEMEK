@@ -58,28 +58,33 @@
 3- Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 
 * UPDATE employee
-		 SET name = 'Albert ' ,
+		
+		SET name = 'Albert ' ,
 		 email ='alberto3567@gmail.com' ,
 		 birthday ='1995-03-23'
 		 WHERE id = 1 ;
 
 * UPDATE employee
-		 SET name = 'Gaben' ,
+		
+		SET name = 'Gaben' ,
 		 email ='gaben21@gmail.com' ,
 		 birthday ='1978-02-06'
 		 WHERE id = 2 ;
 * UPDATE employee
-		 SET name = 'Hari Seldon  ' ,
+		
+		SET name = 'Hari Seldon  ' ,
 		 email ='h.seldon@gmail.com' ,
 		 birthday ='1971-02-01'
 		 WHERE id = 3 ;
 * UPDATE employee
-		 SET name = 'MİKE ' ,
+		
+		SET name = 'MİKE ' ,
 		 email ='mike@gmail.com' ,
 		 birthday ='2000-03-05'
 		 WHERE id = 4 ;
 * UPDATE employee
-		 SET name = 'Oscar ' ,
+		
+		SET name = 'Oscar ' ,
 		 email ='oscar22@gmail.com' ,
 		 birthday ='1994-02-24'
 		 WHERE id = 5 ;
